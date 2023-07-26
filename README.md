@@ -24,7 +24,7 @@ Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
 
 ```bash
-git clone https://github.com/aaziz1234/Spice-R-Us-Website-Project.git
+git clone https://github.com/aanassor1/Spice-R-Us-Website-Project.git
 ```
 
 Once you have installed the cloned repository, open it with your IDE with Spring Boot available. Navigate to the file: <code>src/main/resources/application.properties</code> and configure the database to a database of your own. Then navigate to: <code>src/main/java/com/spice/SpiceRUsApplication.java</code> and run the project.
