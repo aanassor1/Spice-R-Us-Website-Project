@@ -3,12 +3,12 @@
 
 ### Contributors
 
-Joe Horden              -   Username: jh834<br>
-Edgar Lok               -   Username: cyel2<br>
-Denil Mansuclal         -   Username: dm470<br>
-Martina Martinova       -   Username: mm1014<br>
-Safwaan Mussa           -   Username: sm1081<br>
-Abdul-Aziz A Nassor     -   Username: aan15<br>
+Joe Horden (Back-end)              -   Username: jh834<br>
+Edgar Lok (Front-end)              -   Username: cyel2<br>
+Denil Mansuclal (Front-end)        -   Username: dm470<br>
+Martina Martinova (Front-end)      -   Username: mm1014<br>
+Safwaan Mussa (Front-end)          -   Username: sm1081<br>
+Abdul-Aziz A Nassor (Back-end)     -   Username: aan15<br>
 
 
 ### Description 
