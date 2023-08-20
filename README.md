@@ -1,7 +1,7 @@
-# GitLab repository for "Spice R Us" Commercial Website (CO2201) Group Project
+# GitLab repository for "Spice R Us" Commercial Website
 
 
-## Contributors
+### Contributors
 
 Joe Horden (Back-end)              -   Username: jh834<br>
 Edgar Lok (Front-end)              -   Username: cyel2<br>
@@ -11,14 +11,18 @@ Safwaan Mussa (Front-end)          -   Username: sm1081<br>
 Abdul-Aziz A Nassor (Back-end)     -   Username: aan15<br>
 
 
-## Description 
+### Description 
 
 This is a website built using Spring Boot to support a spice seller with an accounting system and membership-based online cookery recipes and advice. 
 
 Spices R Us is a commercial spice supplier who want to move into the online household market. To facilitate this, we want to offer not just spice sales in small quantities, but also online recipe guidance and cooking tools. Spice R Us have a commercial accounts system, but also developed a householder accounts system, and the online support tools from scratch. 
 
+### What I learnt
+* Java
+* Spring Web MVC (Model-View-Controller) Framework
+* Connecting the information displayed on the website to the backend system
 
-## Installation
+### Installation
 
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
